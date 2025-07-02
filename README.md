@@ -19,6 +19,7 @@ configurationManager.Application.Configuration¨
     2) "TimeoutPhrase": string - строка, которая будет выведена через "Timeout" мс.
 
 Для сборки:
+
   mkdir build
   
   cd build
